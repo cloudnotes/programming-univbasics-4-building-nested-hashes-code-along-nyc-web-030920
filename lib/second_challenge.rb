@@ -1,9 +1,11 @@
 def second_challenge
   epic_tragedy = {
-    :montague => {
-      
+    :montague => 
+      {
+        :patriarch
       }, 
-    :capulet => {
+    :capulet => 
+      {
      
       }}
 
